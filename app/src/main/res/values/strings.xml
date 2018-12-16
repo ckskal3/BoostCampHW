@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">부스트캠프 사전과제</string>
+    <string name="search_kr">검색</string>
+    <string name="search_key_plz">검색어를 입력해주세요</string>
+    <string name="no_search_result_kr">\'%s\'의 검색결과가 없습니다.</string>
+    <string name="inter_connect_plz">인터넷을 연결해주세요</string>
+    <string name="waiting_plz_kr">잠시만 기다려주세요</string>
+    <string name="ex_actor_en">Actor|Actor|Actor|Actor|Actor|Actor|Actor</string>
+    <string name="ex_director_en">Director</string>
+    <string name="ex_year_en">xxxx</string>
+    <string name="ex_title_en">Title</string>
+</resources>
